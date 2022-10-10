@@ -11,4 +11,4 @@ Frontend
 
 Backend
 - Spring Boot
-- mysql
+- MySQL
