@@ -12,3 +12,6 @@ Frontend
 Backend
 - Spring Boot
 - MySQL
+
+Combined
+- Web hooks 
