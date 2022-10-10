@@ -14,4 +14,4 @@ Backend
 - MySQL
 
 Combined
-- Web hooks 
+- Combine Frontend and Backend with Web Hooks
