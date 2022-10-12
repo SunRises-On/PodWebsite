@@ -28,5 +28,9 @@ public class Podcast implements Serializable {
     @Column(name = "rss_news_feed")
     private String rss;
 
+    //<channel>
+    //  <url> image </url>
+    @Column (name =  "image")
+    private String image;
 
 }
